@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elmirahajaghaei-stack.github.io/Elmira-Hajaghaei/sitemap.xml
