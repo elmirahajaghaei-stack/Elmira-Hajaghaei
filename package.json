@@ -7,10 +7,10 @@
     "build:android": "npx cap sync android"
   },
   "dependencies": {
-    "@capacitor/android": "6.2.1",
-    "@capacitor/core": "6.2.1"
+    "@capacitor/android": "7.0.1",
+    "@capacitor/core": "7.0.1"
   },
   "devDependencies": {
-    "@capacitor/cli": "6.2.1"
+    "@capacitor/cli": "7.0.1"
   }
 }
