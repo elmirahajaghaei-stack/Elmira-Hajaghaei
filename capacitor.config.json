@@ -1,0 +1,11 @@
+{
+  "appId": "com.luma.mentalhealth",
+  "appName": "LUMA",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
